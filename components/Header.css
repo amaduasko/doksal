@@ -1,0 +1,190 @@
+.header {
+  background-color: #fff;
+}
+.header__logo {
+  background-image: url(/static/img/logo.png);
+  width: 180px;
+  height: 80px;
+  background-position-y: top;
+  background-position-x: right;
+}
+
+.navbar-tablet_mobile {
+  display: none;
+}
+.navbar-mobile-phone {
+  display: none;
+}
+.navbar-desktop {
+  display: flex;
+}
+.header-order-btn {
+  padding: 1.5rem 2rem;
+  margin: 0 10px;
+  background: linear-gradient(180deg, #49abcd 0%, #2c87a6 100%);
+}
+.header-callback-btn {
+  padding: 1.5rem 2rem;
+  margin: 0 10px;
+  background: linear-gradient(180deg, #ff8839 0%, #ff6600 100%);
+}
+.header-phone-number {
+  color: #444444 !important;
+}
+.header-location-input:focus {
+  box-shadow: none;
+}
+.header-social-info {
+  display: flex;
+}
+/* .header-location-container {
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+} */
+.header-phone-icon {
+  margin-right: 10px;
+}
+.navbar-toggler:focus {
+  outline: none;
+}
+@media (max-width: 1199.98px) {
+  .header-order-btn {
+    font-size: 15px;
+    padding: 1rem;
+    margin: 0 5px;
+  }
+  .header-callback-btn {
+    font-size: 15px;
+    padding: 1rem;
+    margin: 0;
+  }
+  .header-location-container {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .header-social-network-container {
+    margin: 10px 0;
+    padding-top: 0 !important;
+  }
+}
+
+@media (max-width: 992px) {
+  .container {
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 100%;
+  }
+  .navbar {
+    padding: 0.5rem 0;
+  }
+  .navbar-desktop {
+    display: none;
+  }
+  .navbar-tablet_mobile {
+    display: block;
+  }
+
+  .navbar-mobile-phone {
+    display: block;
+    width: 44px;
+    height: 44px;
+    color: #fff;
+    margin-left: auto;
+    margin-right: 20px;
+    background: linear-gradient(180deg, #ff8839 0%, #ff6600 100%);
+    border-radius: 27px;
+    border: none;
+  }
+
+  .header-phone-number {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+  }
+  .show {
+    animation-name: slide-show;
+    animation-duration: 500ms;
+  }
+  .hide {
+    animation-name: slide-hide;
+    animation-duration: 1000ms;
+    transition-duration: 200ms;
+    transition-property: visibility, opacity;
+    visibility: hidden;
+    opacity: 0;
+    transition-delay: 200ms;
+  }
+  .navbar-item-container {
+    position: fixed;
+    overflow: scroll;
+    padding-bottom: 80px;
+    z-index: 10;
+    top: 60px;
+    height: 100%;
+    width: 80%;
+    padding-left: 5%;
+    padding-top: 20px;
+    right: 0;
+    background-color: #f5f5f5;
+  }
+  .nav-link {
+    font-size: 13px;
+    padding: 4px 0;
+  }
+  .mobile-header-nav-list-link {
+    text-decoration: underline !important;
+    font-size: 13px;
+    line-height: 31px;
+  }
+  .mobile-header-uper-link {
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 35px;
+  }
+  .header-mobile-nav-title {
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 35px;
+  }
+  .nav-item {
+    width: fit-content;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .header-callback-btn {
+    width: 90%;
+    margin: 10px;
+  }
+  .header-social-network-container {
+    margin-top: 0;
+  }
+  .header-social-info {
+    display: flex;
+    justify-content: space-around;
+  }
+}
+
+@media (max-width: 321px) {
+  .header-phone-number {
+    font-size: 15px;
+  }
+}
+
+@keyframes slide-hide {
+  from {
+    width: 20%;
+    right: 0%;
+  }
+  to {
+    width: 0;
+    right: -100%;
+  }
+}
+@keyframes slide-show {
+  from {
+    right: -100%;
+  }
+  to {
+    right: 0%;
+  }
+}

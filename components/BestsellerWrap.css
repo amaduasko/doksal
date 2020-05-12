@@ -1,0 +1,23 @@
+.bestsellerWrap {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 1rem 1rem 2rem 1rem;
+}
+@media (max-width: 1200px){
+  .bestsellerWrap {
+    padding: 1rem 1rem 0rem 1rem;
+  }
+}
+@media (max-width:576px){
+.bestsellerWrap .backtocatalog{
+  display: inline-block;
+  margin-left: 0rem;
+  }
+}
+@media (min-width:577px){
+  .bestsellerWrap .backtocatalog{
+    display: none;
+    }
+  }

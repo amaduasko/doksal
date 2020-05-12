@@ -1,0 +1,8 @@
+.WrapperCatalogMini {
+  max-width: 1140px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  width: 100%;
+}

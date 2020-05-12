@@ -1,0 +1,17 @@
+.main {
+  margin-top: -80px;
+  z-index: 1;
+  overflow-x: auto;
+}
+.main__flex {
+  display: flex;
+  justify-content: space-between;
+  min-width: 70rem;
+}
+
+/* @media (max-width: 574px) {
+  .container {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+} */

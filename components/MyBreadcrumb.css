@@ -1,0 +1,9 @@
+.mybreadcrumb {
+  padding: 20px 15px;
+  width: 100%;
+}
+@media (max-width: 640px) {
+  .mybreadcrumb {
+    display: none;
+  }
+}

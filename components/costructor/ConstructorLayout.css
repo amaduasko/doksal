@@ -1,0 +1,26 @@
+.constructorlayout {
+  max-width: 1140px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 2rem 0 5rem;
+}
+.constructorlayout__left,
+.constructorlayout__right {
+  width: calc(50%);
+  padding: 15px;
+}
+.constructorlayout__right {
+  width: calc(50%);
+  padding: 15px;
+}
+.constructorlayout__sticky {
+  position: sticky;
+  top: 80px;
+}
+@media (max-width: 920px) {
+  .constructorlayout__left,
+  .constructorlayout__right {
+    width: calc(100%);
+  }
+}

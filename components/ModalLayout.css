@@ -1,0 +1,54 @@
+.ModalLayout{
+    
+    display: flex;
+    width: 953px;
+}
+.ModalLayoutLeft{
+    
+    flex-basis: 35%;
+    flex-grow: 0;
+}
+.ModalLayoutRight{
+    max-width: 620px;
+    flex-basis:65%;
+    position: relative;
+    flex-grow: 4;
+    background-color: #fff;
+}
+.ModalLayoutRightMini{
+ background-color: #fff;
+}
+.ModalLayoutRightMini .collapse-menu{
+    border:none;
+   }
+.ModalLayoutLeft .ModalClose{
+    display:none;
+}
+@media(max-width:425px){
+    .ModalLayout{
+        flex-wrap: wrap; 
+        max-width:100%;
+    }
+    .ModalLayoutLeft{
+        flex-basis: unset;
+        flex-grow: unset;
+        width: 100%;
+    }
+    .ModalLayoutRight{
+        display:none;
+        
+    }
+}
+@media(min-width:426px){
+    .ModalLayoutRightMini{
+        display: none;
+    }
+}
+@media(max-width:425px){
+    .ModalLayoutRightMini{
+        display:block;
+    }
+    .ModalLayoutLeft .ModalClose{
+        display:block;
+    }
+}

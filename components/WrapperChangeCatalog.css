@@ -1,0 +1,6 @@
+.ChangeCatalog {
+  display: flex;
+  justify-content: flex-end;
+  padding: 1rem 1rem;
+  width: 100%;
+}

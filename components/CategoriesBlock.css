@@ -1,0 +1,135 @@
+.cat {
+  overflow: hidden;
+  height: 280px;
+  padding-left: 0.5rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  width: 230px;
+}
+.cat__block {
+  display: block;
+  height: 100%;
+  background: #ffffff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  width: 206px;
+  position: relative;
+  transition: all .5s ease;
+}
+.cat__block:hover {
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+}
+
+.cat__block__title {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: left;
+  color: #444444;
+  padding: 1.5rem;
+}
+.cat__block__img {
+  position: absolute;
+  bottom: 0;
+  height: 180px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.cat__block__order__window__content {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 24px;
+  color: #444444;
+}
+
+/* Карточка с заказом */
+.cat__block__order__window {
+  display: block;
+  align-items: center;
+  background: #ffffff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  width: 206px;
+  position: relative;
+  height: 100%;
+  overflow: hidden;
+  transition: all .5s ease;
+  cursor: pointer;
+}
+.cat__block__order__window:hover {
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+}
+
+.cat__block__order__window.active p {
+  margin-bottom: 0rem;
+}
+.cat__block__order__window__title {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 24px;
+  padding: 1rem 1.5rem;
+  color: #444444;
+}
+.cat__block__order__window__content {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  text-align: left;
+  padding-left: 1.5rem;
+  padding-right: 1rem;
+}
+.cat__block__order__window__div__btn {
+  position: absolute;
+  height: 100px;
+
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  bottom: 0;
+}
+.cat__block__order__window__btn {
+  display: inline-flex;
+  align-items: center;
+  position: absolute;
+  bottom: 10px;
+  border: 1px solid #cfcfcf;
+  box-sizing: border-box;
+  border-radius: 27px;
+  background: #ffffff;
+  padding: 1rem 1rem;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  outline: none;
+  color: #444444;
+}
+.btn__text {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 17px;
+  color: #444444;
+}
+.cat__block__order__window__btn::before {
+  content: url("/static/img/pen1.png");
+  margin-right: 5px;
+}
+.cat a{
+  text-decoration: none;
+}
+.cat a:hover{
+  text-decoration:none;
+}

@@ -1,0 +1,62 @@
+.st0 {
+  display: none;
+}
+.st1 {
+  fill: #e5e2d8;
+}
+.st2 {
+  fill: #dfe9ef;
+}
+.st3 {
+  fill: #bfc4d6;
+}
+.st4 {
+  opacity: 0.3;
+}
+.st5 {
+  opacity: 5e-2;
+}
+.st6 {
+  opacity: 0.2;
+}
+.st7 {
+  opacity: 0.1;
+}
+.st8 {
+  opacity: 0.94;
+}
+
+/* svg {
+  enable-background: new 0 0 2235 3005;
+} */
+
+.layers > div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  z-index: 0;
+}
+
+/* .zone {
+  background-size: 5% 5%;
+}
+.zone.zone_1 {
+  clip-path: url(#zone_1);
+  background: url(/static/img/constructor/texture1.png);
+  transform: translate3d(0, 0, 0);
+} */
+
+.zone1 {
+  -webkit-clip-path: url(#zone_1);
+  clip-path: url(#zone_1);
+  background-image: url(/static/img/constructor/texture2.png);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  transform: translate3d(0, 0, 0);
+}

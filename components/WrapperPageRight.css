@@ -1,0 +1,16 @@
+.WrapperPageRight {
+  padding-left: 3rem;
+  width: 100%;
+  flex-grow: 1;
+}
+@media (max-width: 992px) {
+  .WrapperPageRight {
+    padding-left: 1rem;
+  }
+}
+@media (max-width: 735px) {
+  .WrapperPageRight {
+    margin-top: 30px;
+    padding-left: 0px;
+  }
+}

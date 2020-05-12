@@ -1,0 +1,50 @@
+.additem {
+  border-top: 1px solid #e3e3e3;
+  display: flex;
+  align-items: center;
+  padding: 1.5rem 0;
+}
+
+.additem__checkbox {
+  min-width: 20px;
+  width: 20px;
+  height: 20px;
+  background: linear-gradient(180deg, #59b7d7 0%, #2c87a6 100%);
+  border-radius: 3px;
+  cursor: pointer;
+  margin-right: 15px;
+}
+
+.additem__checkbox.active {
+  background: url("/static/img/checkbox.png") no-repeat center center,
+    linear-gradient(180deg, #59b7d7 0%, #2c87a6 100%);
+}
+
+.additem__text {
+  color: #444444;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+.additem__cost {
+  color: #2c87a6;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 600;
+  margin-left: 1rem;
+}
+
+.additem__content {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 640px) {
+  .additem__cost {
+    margin: 0;
+    width: 100%;
+  }
+}

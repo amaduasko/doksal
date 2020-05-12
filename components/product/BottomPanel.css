@@ -1,0 +1,39 @@
+.BottomPanel {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #fff;
+  height: 50px;
+  z-index: 10000;
+  box-shadow: 0 0 6px rgba(0,0,0,.2);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.BottomPanelButton {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  flex-grow: 1;
+  font-size: 13px;
+  height: 100%;
+  color: #3c3c3c;
+  transition: background .5s ease-in-out;
+  cursor: pointer;
+  font-weight: 600;
+}
+.BottomPanelButton.active {
+  background: linear-gradient(180deg, #59B7D7 0%, #2C87A6 100%);
+  color: #fff !important;
+}
+.BottomPanelButton__text {
+  width: 100%;
+  line-height: 30px;
+  border-right: 1px solid #E3E3E3; 
+}
+.BottomPanelButton:nth-child(3n) .BottomPanelButton__text {
+  border-right: none; 
+}

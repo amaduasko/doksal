@@ -1,0 +1,13 @@
+.WrapperPageLeft {
+  position: sticky;
+  top: 110px;
+  width: 265px;
+  min-width: 265px;
+  height: fit-content;
+}
+@media (max-width: 735px) {
+  .WrapperPageLeft {
+    position: unset;
+    width: 100%;
+  }
+}

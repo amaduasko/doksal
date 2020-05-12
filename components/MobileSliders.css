@@ -1,0 +1,29 @@
+.service-mobile-slider-box {
+  min-width: 54rem;
+  flex-wrap: nowrap;
+  margin-left: 0;
+  margin-right: 0;
+}
+.second-slider-col {
+  flex: 0 0 58.333333%;
+  max-width: 58.333333%;
+}
+
+@media (min-width: 322px) {
+  .slider-col {
+    flex: 0 0 58.333333%;
+    max-width: 58.333333%;
+  }
+}
+@media (min-width: 376px) {
+  .slider-col {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+
+@media (min-width: 576px) {
+  .service-mobile-slider-box {
+    display: none;
+  }
+}

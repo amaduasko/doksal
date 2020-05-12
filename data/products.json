@@ -1,0 +1,492 @@
+[{
+  "id": 1,
+  "title": "Джаз",
+  "description": "<p>Вместительный шкаф-купе оснащен полками и штангой под одежду.</p><p><strong>Каркас</strong>: Выполнен из экологичного ЛДСП Lamarty (Сыктывкарский фанерный завод).</p><p>Лицевая кромка ABS 2 мм термоустойчивая, внутренняя кромка наполнения шкафа ABS 0,45 мм в цвет каркаса.Задняя стенка ДВП белого цвета.</p><p><strong>Двери-купе</strong>: Наполнение двери-купе состоит из МДФ в матовой пленке ПВХ с фрезеровкой и декоративной накладкой.<p><p><strong>Система дверей-купе</strong>: Алюминиевый профиль производства Doksal, с усиленными силиконовыми роликами, обеспечивающие мягкое и бесшумное скольжение дверей по направляющим.<p>",
+  "isActive": true,
+  "previewImage": "/static/products/1-djaz.png",
+  "svgImage": "/static/products/",
+  "cost": {
+    "profil": 4770,
+    "stekla": 13150,
+    "ldsp": 5100
+  },
+  "category": [
+    "В прихожую"
+  ]
+}, {
+  "id": 2,
+  "title": "Лайн",
+  "description": "<p>Вместительный шкаф-купе оснащен полками и штангой под одежду.</p><p><strong>Каркас:</strong> Выполнен из экологичного ЛДСП Lamarty (Сыктывкарский фанерный завод). Лицевая кромка ABS 2 мм термоустойчивая,внутренняя кромка наполнения шкафа ABS 0,45 мм в цвет каркаса. Задняя стенка ДВП белого цвета</p><p><strong>Двери-купе:</strong> Наполнение двери-купе состоит из ЛДСП Lamarty 10мм в цвет каркаса и вставкой стекла (стекло проклеено бронировочной пленкой безопасности).</p><p><strong>Система дверей-купе:</strong> Алюминиевый профиль производства Doksal, с усиленными силиконовыми роликами, обеспечивающие мягкое и бесшумное скольжение дверей по направляющим.<p>",
+  "isActive": true,
+  "previewImage": "/static/products/2-line.png",
+  "svgImage": "/static/products/",
+  "cost": {
+    "profil": 4770,
+    "stekla": 4900,
+    "ldsp": 5100
+  },
+  "category": [
+    "Акции",
+    "С зеркалами"
+  ]
+}, {
+  "id": 3,
+  "title": "Страйп",
+  "description": "<p>Вместительный шкаф-купе оснащен полками и штангой под одежду.</p><p><strong>Каркас:</strong> Выполнен из экологичного ЛДСП Lamarty (Сыктывкарский фанерный завод). Лицевая кромка ABS 2 мм термоустойчивая, внутренняя кромка наполнения шкафа ABS 0,45 мм в цвет каркаса. Задняя стенка ДВП белого цвета.</p><p><strong>Двери-купе:</strong> Наполнение двери-купе состоит из чередования вставок ЛДСП Lamarty 10 мм в цвет каркасаи стекла с пленочным покрытием белого цвета 010 (стекло проклеено бронировочной пленкой безопасности). *Стекло имеет голубоватый оттенок.</p><p><strong>Система дверей-купе:</strong> Алюминиевый профиль производства Doksal, с усиленными силиконовыми роликами, обеспечивающие мягкое и бесшумное скольжение дверей по направляющим.</p>",
+  "isActive": true,
+  "previewImage": "/static/products/3-stripe.png",
+  "svgImage": "/static/",
+  "cost": {
+    "profil": 4770,
+    "stekla": 5600,
+    "ldsp": 5100
+  },
+  "category": [
+    "С зеркалами"
+  ]
+}, {
+  "id": 4,
+  "title": "Интро",
+  "description": "<p>Вместительный шкаф-купе оснащен полками и штангой под одежду.</p><p><strong>Каркас:</strong> Выполнен из экологичного ЛДСП Lamarty (Сыктывкарский фанерный завод). Лицевая кромка ABS 2 мм термоустойчивая, внутренняя кромка наполнения шкафа ABS 0,45 мм в цвет каркаса. Задняя стенка ДВП белого цвета</p><p><strong>Двери-купе:</strong> Наполнение двери-купе состоит из ЛДСП Lamarty 10мм в цвет каркаса.</p><p><strong>Система дверей-купе:</strong> Алюминиевый профиль производства Doksal, с усиленными силиконовыми роликами, обеспечивающие мягкое и бесшумное скольжение дверей по направляющим.</p>",
+  "isActive": true,
+  "previewImage": "/static/products/4-intro.png",
+  "svgImage": "/static/",
+  "cost": {
+    "profil": 4770,
+    "stekla": 2100,
+    "ldsp": 5100
+  },
+  "sale": 20,
+  "category": [
+    "Распродажа"
+  ]
+}, {
+  "id": 5,
+  "title": "Интро зеркало",
+  "description": "<p>Вместительный шкаф-купе оснащен полками и штангой под одежду.</p><p><strong>Каркас:</strong> Выполнен из экологичного ЛДСП Lamarty (Сыктывкарский фанерный завод). Лицевая кромка ABS 2 мм термоустойчивая, внутренняя кромка наполнения шкафа ABS 0,45 мм в цвет каркаса. Задняя стенка ДВП белого цвета.</p><p><strong>Двери-купе:</strong> Наполнение двери-купе зеркало серебро (проклеено бронировочной пленкой безопасности)</p><p><strong>Система дверей-купе:</strong> Алюминиевый профиль производства Doksal, с усиленными силиконовыми роликами, обеспечивающие мягкое и бесшумное скольжение дверей по направляющим.</p>",
+  "isActive": true,
+  "previewImage": "/static/products/5-intro-zerkalo.png",
+  "svgImage": "/static/",
+  "cost": {
+    "profil": 4770,
+    "stekla": 3690,
+    "ldsp": 5100,
+    "additions": []
+  },
+  "additions": [],
+  "category": [
+    "С зеркалами"
+  ]
+}, {
+  "id": 6,
+  "title": "Интро белый",
+  "description": "<p>Вместительный шкаф-купе оснащен полками и штангой под одежду.</p><p><strong>Каркас:</strong> Выполнен из экологичного ЛДСП Lamarty (Сыктывкарский фанерный завод). Лицевая кромка ABS 2 мм термоустойчивая, внутренняя кромка наполнения шкафа ABS 0,45 мм в цвет каркаса. Задняя стенка ДВП белого цвета.</p><p><strong>Двери-купе:</strong> Наполнение двери-купе стекло, с пленочным покрытием белого цвета 010(стекло проклеено бронировочной пленкой безопасности).</p><p>*Стекло имеет голубоватый оттенок.</p><p><strong>Система дверей-купе:</strong> Алюминиевый профиль производства Doksal, с усиленными силиконовыми роликами, обеспечивающие мягкое и бесшумное скольжение дверей по направляющим.</p>",
+  "isActive": true,
+  "previewImage": "/static/products/6-intro-belyi.png",
+  "svgImage": "/static/",
+  "cost": {
+    "profil": 4770,
+    "stekla": 5140,
+    "ldsp": 5100,
+    "additions": []
+  },
+  "additions": [],
+  "category": [
+    "С зеркалами"
+  ]
+},{
+  "id": 7,
+  "title": "Интро черный",
+  "description": "<p>Вместительный шкаф-купе оснащен полками и штангой под одежду.</p><p><strong>Каркас:</strong> Выполнен из экологичного ЛДСП Lamarty (Сыктывкарский фанерный завод). Лицевая кромка ABS 2 мм термоустойчивая, внутренняя кромка наполнения шкафа ABS 0,45 мм в цвет каркаса. Задняя стенка ДВП белого цвета.</p><p><strong>Двери-купе:</strong> Наполнение двери-купе крашенное стекло черного цвета (стекло проклеено бронировочной пленкой безопасности).</p><p><strong>Система дверей-купе:</strong> Алюминиевый профиль производства Doksal, с усиленными силиконовыми роликами, обеспечивающие мягкое и бесшумное скольжение дверей по направляющим.</p>",
+  "isActive": true,
+  "previewImage": "/static/products/7-intro-chernyi.png",
+  "svgImage": "/static/",
+  "cost": {
+    "profil": 4770,
+    "stekla": 7800,
+    "ldsp": 5100,
+    "additions": []
+  },
+  "additions": [],
+  "category": [
+    "С зеркалами"
+  ]
+}, {
+  "id": 8,
+  "title": "Ранго черный",
+  "description": "<p>Вместительный шкаф-купе оснащен полками и штангой под одежду.</p><p><strong>Каркас:</strong> Выполнен из экологичного ЛДСП Lamarty (Сыктывкарский фанерный завод). Лицевая кромка ABS 2 мм термоустойчивая, внутренняя кромка наполнения шкафа ABS 0,45 мм в цвет каркаса. Задняя стенка ДВП белого цвета</p><p><strong>Двери-купе:</strong> Наполнение двери-купе крашенное стекло черного цвета, поделенное на части (стекло проклеено бронировочной пленкой безопасности)</p><p><strong>Система дверей-купе:</strong> Алюминиевый профиль производства Doksal, с усиленными силиконовыми роликами, обеспечивающие мягкое и бесшумное скольжение дверей по направляющим.</p>",
+  "isActive": true,
+  "previewImage": "/static/products/8-rango-chernyi.png",
+  "svgImage": "/static/",
+  "cost": {
+    "profil": 4770,
+    "stekla": 9600,
+    "ldsp": 5100,
+    "additions": []
+  },
+  "additions": [],
+  "category": [
+    "С зеркалами"
+  ]
+}, {
+  "id": 9,
+  "title": "Ранго зеркало",
+  "description": "<p>Вместительный шкаф-купе оснащен полками и штангой под одежду.</p><p><strong>Каркас:</strong> Выполнен из экологичного ЛДСП Lamarty (Сыктывкарский фанерный завод). Лицевая кромка ABS 2 мм термоустойчивая, внутренняя кромка наполнения шкафа ABS 0,45 мм в цвет каркаса. Задняя стенка ДВП белого цвета.</p><p><strong>Двери-купе:</strong> Наполнение двери-купе зеркало серебро, деленное на части (зеркало проклеено бронировочной пленкой безопасности).</p><p><strong>Система дверей-купе:</strong> Алюминиевый профиль производства Doksal, с усиленными силиконовыми роликами, обеспечивающие мягкое и бесшумное скольжение дверей по направляющим.</p>",
+  "isActive": true,
+  "previewImage": "/static/products/9-rango-zerkalo.png",
+  "svgImage": "/static/",
+  "cost": {
+    "profil": 4770,
+    "stekla": 5490,
+    "ldsp": 5100,
+    "additions": []
+  },
+  "additions": [],
+  "category": [
+    "С зеркалами"
+  ]
+}, {
+  "id": 10,
+  "title": "Ранго белый",
+  "description": "<p>Вместительный шкаф-купе оснащен полками и штангой под одежду.</p><p><strong>Каркас:</strong> Выполнен из экологичного ЛДСП Lamarty (Сыктывкарский фанерный завод). Лицевая кромка ABS 2 мм термоустойчивая, внутренняя кромка наполнения шкафа ABS 0,45 мм в цвет каркаса. Задняя стенка ДВП белого цвета.</p><p><strong>Двери-купе:</strong> Наполнение двери-купе стекло, с пленочным покрытием белого цвета 010, поделенное на части (стекло проклеено бронировочной пленкой безопасности).</p><p>*Стекло имеет голубоватый оттенок</p><p><strong>Система дверей-купе:</strong> Алюминиевый профиль производства Doksal, с усиленными силиконовыми роликами, обеспечивающие мягкое и бесшумное скольжение дверей по направляющим.</p>",
+  "isActive": true,
+  "previewImage": "/static/products/10-rango-belyi.png",
+  "svgImage": "/static/",
+  "cost": {
+    "profil": 4770,
+    "stekla": 6940,
+    "ldsp": 5100,
+    "additions": []
+  },
+  "additions": [],
+  "category": [
+    "С зеркалами"
+  ]
+}, {
+  "id": 11,
+  "title": "Квадро черный",
+  "description": "<p>Вместительный шкаф-купе оснащен полками и штангой под одежду.</p><p><strong>Каркас:</strong> Выполнен из экологичного ЛДСП Lamarty (Сыктывкарский фанерный завод). Лицевая кромка ABS 2 мм термоустойчивая, внутренняя кромка наполнения шкафа ABS 0,45 мм в цвет каркаса. Задняя стенка ДВП белого цвета.</p><p><strong>Двери-купе:</strong> Наполнение двери-купе крашенное стекло черного цвета, поделенное на части (стекло проклеено бронировочной пленкой безопасности).</p><p><strong>Система дверей-купе:</strong> Алюминиевый профиль производства Doksal, с усиленными силиконовыми роликами, обеспечивающие мягкое и бесшумное скольжение дверей по направляющим.</p>",
+  "isActive": true,
+  "previewImage": "/static/products/11-quadro-chernyi.png",
+  "svgImage": "/static/",
+  "cost": {
+    "profil": 4770,
+    "stekla": 9000,
+    "ldsp": 5100,
+    "additions": [
+      { "width": 1200, "depth": 450, "profileColor": "c-serebro",       "profil": 0,    "stekla": 0,   "ldsp":   0},
+      { "width": 1200, "depth": 450, "profileColor": "c-zoloto",        "profil": 880,  "stekla": 0,   "ldsp":   0},
+      { "width": 1200, "depth": 450, "profileColor": "c-shampan",       "profil": 880,  "stekla": 0,   "ldsp":   0},
+      { "width": 1200, "depth": 450, "profileColor": "c-bel-glyanec",   "profil": 1560, "stekla": 0,   "ldsp":   0},
+      { "width": 1200, "depth": 450, "profileColor": "c-ferrara-tem",   "profil": 1560, "stekla": 0,   "ldsp":   0},
+      { "width": 1200, "depth": 450, "profileColor": "c-ferrara-svet",  "profil": 1560, "stekla": 0,   "ldsp":   0},
+      { "width": 1200, "depth": 450, "profileColor": "c-klen",          "profil": 1930, "stekla": 0,   "ldsp":   0},
+      { "width": 1200, "depth": 450, "profileColor": "ele-serebro",     "profil": 2230, "stekla": 0,   "ldsp":   0},
+      { "width": 1200, "depth": 450, "profileColor": "ele-bel-glyan",   "profil": 2230, "stekla": 0,   "ldsp":   0},
+      { "width": 1200, "depth": 450, "profileColor": "ele-cher-glyan",  "profil": 2230, "stekla": 0,   "ldsp":   0},
+      { "width": 1200, "depth": 450, "profileColor": "l-serebro",       "profil": 4830, "stekla": 0,   "ldsp":   0},
+      { "width": 1200, "depth": 450, "profileColor": "l-zoloto",        "profil": 4830, "stekla": 0,   "ldsp":   0},
+      { "width": 1200, "depth": 450, "profileColor": "l-graphit",       "profil": 4830, "stekla": 0,   "ldsp":   0},
+      { "width": 1200, "depth": 450, "profileColor": "p-serebro",       "profil": 3480, "stekla": 0,   "ldsp":   0},
+      { "width": 1200, "depth": 450, "profileColor": "p-ferrara-tem",   "profil": 3480, "stekla": 0,   "ldsp":   0},
+      { "width": 1200, "depth": 450, "profileColor": "p-ferrara-svet",  "profil": 3480, "stekla": 0,   "ldsp":   0},
+      
+      { "width": 1400, "depth": 450, "profileColor": "c-serebro",       "profil": 170,  "stekla": 910, "ldsp": 300},
+      { "width": 1400, "depth": 450, "profileColor": "c-zoloto",        "profil": 1100, "stekla": 910, "ldsp": 300},
+      { "width": 1400, "depth": 450, "profileColor": "c-shampan",       "profil": 1100, "stekla": 910, "ldsp": 300},
+      { "width": 1400, "depth": 450, "profileColor": "c-bel-glyanec",   "profil": 1890, "stekla": 910, "ldsp": 300},
+      { "width": 1400, "depth": 450, "profileColor": "c-ferrara-tem",   "profil": 1890, "stekla": 910, "ldsp": 300},
+      { "width": 1400, "depth": 450, "profileColor": "c-ferrara-svet",  "profil": 1890, "stekla": 910, "ldsp": 300},
+      { "width": 1400, "depth": 450, "profileColor": "c-klen",          "profil": 2230, "stekla": 910, "ldsp": 300},
+      { "width": 1400, "depth": 450, "profileColor": "ele-serebro",     "profil": 2630, "stekla": 910, "ldsp": 300},
+      { "width": 1400, "depth": 450, "profileColor": "ele-bel-glyan",   "profil": 2630, "stekla": 910, "ldsp": 300},
+      { "width": 1400, "depth": 450, "profileColor": "ele-cher-glyan",  "profil": 2630, "stekla": 910, "ldsp": 300},
+      { "width": 1400, "depth": 450, "profileColor": "l-serebro",       "profil": 5220, "stekla": 910, "ldsp": 300},
+      { "width": 1400, "depth": 450, "profileColor": "l-zoloto",        "profil": 5220, "stekla": 910, "ldsp": 300},
+      { "width": 1400, "depth": 450, "profileColor": "l-graphit",       "profil": 5220, "stekla": 910, "ldsp": 300},
+      { "width": 1400, "depth": 450, "profileColor": "p-serebro",       "profil": 3660, "stekla": 910, "ldsp": 300},
+      { "width": 1400, "depth": 450, "profileColor": "p-ferrara-tem",   "profil": 5220, "stekla": 910, "ldsp": 300},
+      { "width": 1400, "depth": 450, "profileColor": "p-ferrara-svet",  "profil": 5220, "stekla": 910, "ldsp": 300},
+
+      { "width": 1600, "depth": 450, "profileColor": "c-serebro",       "profil": 330,  "stekla": 1850, "ldsp": 800},
+      { "width": 1600, "depth": 450, "profileColor": "c-zoloto",        "profil": 1320, "stekla": 1850, "ldsp": 800},
+      { "width": 1600, "depth": 450, "profileColor": "c-shampan",       "profil": 1320, "stekla": 1850, "ldsp": 800},
+      { "width": 1600, "depth": 450, "profileColor": "c-bel-glyanec",   "profil": 2210, "stekla": 1850, "ldsp": 800},
+      { "width": 1600, "depth": 450, "profileColor": "c-ferrara-tem",   "profil": 2210, "stekla": 1850, "ldsp": 800},
+      { "width": 1600, "depth": 450, "profileColor": "c-ferrara-svet",  "profil": 2210, "stekla": 1850, "ldsp": 800},
+      { "width": 1600, "depth": 450, "profileColor": "c-klen",          "profil": 2550, "stekla": 1850, "ldsp": 800},
+      { "width": 1600, "depth": 450, "profileColor": "ele-serebro",     "profil": 2940, "stekla": 1850, "ldsp": 800},
+      { "width": 1600, "depth": 450, "profileColor": "ele-bel-glyan",   "profil": 2940, "stekla": 1850, "ldsp": 800},
+      { "width": 1600, "depth": 450, "profileColor": "ele-cher-glyan",  "profil": 2940, "stekla": 1850, "ldsp": 800},
+      { "width": 1600, "depth": 450, "profileColor": "l-serebro",       "profil": 5620, "stekla": 1850, "ldsp": 800},
+      { "width": 1600, "depth": 450, "profileColor": "l-zoloto",        "profil": 5620, "stekla": 1850, "ldsp": 800},
+      { "width": 1600, "depth": 450, "profileColor": "l-graphit",       "profil": 5620, "stekla": 1850, "ldsp": 800},
+      { "width": 1600, "depth": 450, "profileColor": "p-serebro",       "profil": 3860, "stekla": 1850, "ldsp": 800},
+      { "width": 1600, "depth": 450, "profileColor": "p-ferrara-tem",   "profil": 5620, "stekla": 1850, "ldsp": 800},
+      { "width": 1600, "depth": 450, "profileColor": "p-ferrara-svet",  "profil": 5620, "stekla": 1850, "ldsp": 800},
+
+      { "width": 1800, "depth": 450, "profileColor": "c-serebro",       "profil": 510,  "stekla": 2750, "ldsp": 1100},
+      { "width": 1800, "depth": 450, "profileColor": "c-zoloto",        "profil": 1540, "stekla": 2750, "ldsp": 1100},
+      { "width": 1800, "depth": 450, "profileColor": "c-shampan",       "profil": 1540, "stekla": 2750, "ldsp": 1100},
+      { "width": 1800, "depth": 450, "profileColor": "c-bel-glyanec",   "profil": 2210, "stekla": 2750, "ldsp": 1100},
+      { "width": 1800, "depth": 450, "profileColor": "c-ferrara-tem",   "profil": 2210, "stekla": 2750, "ldsp": 1100},
+      { "width": 1800, "depth": 450, "profileColor": "c-ferrara-svet",  "profil": 2210, "stekla": 2750, "ldsp": 1100},
+      { "width": 1800, "depth": 450, "profileColor": "c-klen",          "profil": 2880, "stekla": 2750, "ldsp": 1100},
+      { "width": 1800, "depth": 450, "profileColor": "ele-serebro",     "profil": 3250, "stekla": 2750, "ldsp": 1100},
+      { "width": 1800, "depth": 450, "profileColor": "ele-bel-glyan",   "profil": 3250, "stekla": 2750, "ldsp": 1100},
+      { "width": 1800, "depth": 450, "profileColor": "ele-cher-glyan",  "profil": 3250, "stekla": 2750, "ldsp": 1100},
+      { "width": 1800, "depth": 450, "profileColor": "l-serebro",       "profil": 5930, "stekla": 2750, "ldsp": 1100},
+      { "width": 1800, "depth": 450, "profileColor": "l-zoloto",        "profil": 5930, "stekla": 2750, "ldsp": 1100},
+      { "width": 1800, "depth": 450, "profileColor": "l-graphit",       "profil": 5930, "stekla": 2750, "ldsp": 1100},
+      { "width": 1800, "depth": 450, "profileColor": "p-serebro",       "profil": 4050, "stekla": 2750, "ldsp": 1100},
+      { "width": 1800, "depth": 450, "profileColor": "p-ferrara-tem",   "profil": 5930, "stekla": 2750, "ldsp": 1100},
+      { "width": 1800, "depth": 450, "profileColor": "p-ferrara-svet",  "profil": 5930, "stekla": 2750, "ldsp": 1100},
+
+      { "width": 1200, "depth": 600, "profileColor": "c-serebro",       "profil": 0,    "stekla": 0,    "ldsp": 1800},
+      { "width": 1200, "depth": 600, "profileColor": "c-zoloto",        "profil": 880,  "stekla": 0,    "ldsp": 1800},
+      { "width": 1200, "depth": 600, "profileColor": "c-shampan",       "profil": 880,  "stekla": 0,    "ldsp": 1800},
+      { "width": 1200, "depth": 600, "profileColor": "c-bel-glyanec",   "profil": 1560, "stekla": 0,    "ldsp": 1800},
+      { "width": 1200, "depth": 600, "profileColor": "c-ferrara-tem",   "profil": 1560, "stekla": 0,    "ldsp": 1800},
+      { "width": 1200, "depth": 600, "profileColor": "c-ferrara-svet",  "profil": 1560, "stekla": 0,    "ldsp": 1800},
+      { "width": 1200, "depth": 600, "profileColor": "c-klen",          "profil": 1930, "stekla": 0,    "ldsp": 1800},
+      { "width": 1200, "depth": 600, "profileColor": "ele-serebro",     "profil": 2230, "stekla": 0,    "ldsp": 1800},
+      { "width": 1200, "depth": 600, "profileColor": "ele-bel-glyan",   "profil": 2230, "stekla": 0,    "ldsp": 1800},
+      { "width": 1200, "depth": 600, "profileColor": "ele-cher-glyan",  "profil": 2230, "stekla": 0,    "ldsp": 1800},
+      { "width": 1200, "depth": 600, "profileColor": "l-serebro",       "profil": 4830, "stekla": 0,    "ldsp": 1800},
+      { "width": 1200, "depth": 600, "profileColor": "l-zoloto",        "profil": 4830, "stekla": 0,    "ldsp": 1800},
+      { "width": 1200, "depth": 600, "profileColor": "l-graphit",       "profil": 4830, "stekla": 0,    "ldsp": 1800},
+      { "width": 1200, "depth": 600, "profileColor": "p-serebro",       "profil": 3480, "stekla": 0,    "ldsp": 1800},
+      { "width": 1200, "depth": 600, "profileColor": "p-ferrara-tem",   "profil": 3480, "stekla": 0,    "ldsp": 1800},
+      { "width": 1200, "depth": 600, "profileColor": "p-ferrara-svet",  "profil": 3480, "stekla": 0,    "ldsp": 1800},
+      
+      { "width": 1400, "depth": 600, "profileColor": "c-serebro",       "profil": 170,  "stekla": 910,  "ldsp": 2200},
+      { "width": 1400, "depth": 600, "profileColor": "c-zoloto",        "profil": 1100, "stekla": 910,  "ldsp": 2200},
+      { "width": 1400, "depth": 600, "profileColor": "c-shampan",       "profil": 1100, "stekla": 910,  "ldsp": 2200},
+      { "width": 1400, "depth": 600, "profileColor": "c-bel-glyanec",   "profil": 1890, "stekla": 910,  "ldsp": 2200},
+      { "width": 1400, "depth": 600, "profileColor": "c-ferrara-tem",   "profil": 1890, "stekla": 910,  "ldsp": 2200},
+      { "width": 1400, "depth": 600, "profileColor": "c-ferrara-svet",  "profil": 1890, "stekla": 910,  "ldsp": 2200},
+      { "width": 1400, "depth": 600, "profileColor": "c-klen",          "profil": 2230, "stekla": 910,  "ldsp": 2200},
+      { "width": 1400, "depth": 600, "profileColor": "ele-serebro",     "profil": 2630, "stekla": 910,  "ldsp": 2200},
+      { "width": 1400, "depth": 600, "profileColor": "ele-bel-glyan",   "profil": 2630, "stekla": 910,  "ldsp": 2200},
+      { "width": 1400, "depth": 600, "profileColor": "ele-cher-glyan",  "profil": 2630, "stekla": 910,  "ldsp": 2200},
+      { "width": 1400, "depth": 600, "profileColor": "l-serebro",       "profil": 5220, "stekla": 910,  "ldsp": 2200},
+      { "width": 1400, "depth": 600, "profileColor": "l-zoloto",        "profil": 5220, "stekla": 910,  "ldsp": 2200},
+      { "width": 1400, "depth": 600, "profileColor": "l-graphit",       "profil": 5220, "stekla": 910,  "ldsp": 2200},
+      { "width": 1400, "depth": 600, "profileColor": "p-serebro",       "profil": 3660, "stekla": 910,  "ldsp": 2200},
+      { "width": 1400, "depth": 600, "profileColor": "p-ferrara-tem",   "profil": 5220, "stekla": 910,  "ldsp": 2200},
+      { "width": 1400, "depth": 600, "profileColor": "p-ferrara-svet",  "profil": 5220, "stekla": 910,  "ldsp": 2200},
+
+      { "width": 1600, "depth": 600, "profileColor": "c-serebro",       "profil": 330,  "stekla": 1850, "ldsp": 2550},
+      { "width": 1600, "depth": 600, "profileColor": "c-zoloto",        "profil": 1320, "stekla": 1850, "ldsp": 2550},
+      { "width": 1600, "depth": 600, "profileColor": "c-shampan",       "profil": 1320, "stekla": 1850, "ldsp": 2550},
+      { "width": 1600, "depth": 600, "profileColor": "c-bel-glyanec",   "profil": 2210, "stekla": 1850, "ldsp": 2550},
+      { "width": 1600, "depth": 600, "profileColor": "c-ferrara-tem",   "profil": 2210, "stekla": 1850, "ldsp": 2550},
+      { "width": 1600, "depth": 600, "profileColor": "c-ferrara-svet",  "profil": 2210, "stekla": 1850, "ldsp": 2550},
+      { "width": 1600, "depth": 600, "profileColor": "c-klen",          "profil": 2550, "stekla": 1850, "ldsp": 2550},
+      { "width": 1600, "depth": 600, "profileColor": "ele-serebro",     "profil": 2940, "stekla": 1850, "ldsp": 2550},
+      { "width": 1600, "depth": 600, "profileColor": "ele-bel-glyan",   "profil": 2940, "stekla": 1850, "ldsp": 2550},
+      { "width": 1600, "depth": 600, "profileColor": "ele-cher-glyan",  "profil": 2940, "stekla": 1850, "ldsp": 2550},
+      { "width": 1600, "depth": 600, "profileColor": "l-serebro",       "profil": 5620, "stekla": 1850, "ldsp": 2550},
+      { "width": 1600, "depth": 600, "profileColor": "l-zoloto",        "profil": 5620, "stekla": 1850, "ldsp": 2550},
+      { "width": 1600, "depth": 600, "profileColor": "l-graphit",       "profil": 5620, "stekla": 1850, "ldsp": 2550},
+      { "width": 1600, "depth": 600, "profileColor": "p-serebro",       "profil": 3860, "stekla": 1850, "ldsp": 2550},
+      { "width": 1600, "depth": 600, "profileColor": "p-ferrara-tem",   "profil": 5620, "stekla": 1850, "ldsp": 2550},
+      { "width": 1600, "depth": 600, "profileColor": "p-ferrara-svet",  "profil": 5620, "stekla": 1850, "ldsp": 2550},
+
+      { "width": 1800, "depth": 600, "profileColor": "c-serebro",       "profil": 510,  "stekla": 2750, "ldsp": 2850},
+      { "width": 1800, "depth": 600, "profileColor": "c-zoloto",        "profil": 1540, "stekla": 2750, "ldsp": 2850},
+      { "width": 1800, "depth": 600, "profileColor": "c-shampan",       "profil": 1540, "stekla": 2750, "ldsp": 2850},
+      { "width": 1800, "depth": 600, "profileColor": "c-bel-glyanec",   "profil": 2210, "stekla": 2750, "ldsp": 2850},
+      { "width": 1800, "depth": 600, "profileColor": "c-ferrara-tem",   "profil": 2210, "stekla": 2750, "ldsp": 2850},
+      { "width": 1800, "depth": 600, "profileColor": "c-ferrara-svet",  "profil": 2210, "stekla": 2750, "ldsp": 2850},
+      { "width": 1800, "depth": 600, "profileColor": "c-klen",          "profil": 2880, "stekla": 2750, "ldsp": 2850},
+      { "width": 1800, "depth": 600, "profileColor": "ele-serebro",     "profil": 3250, "stekla": 2750, "ldsp": 2850},
+      { "width": 1800, "depth": 600, "profileColor": "ele-bel-glyan",   "profil": 3250, "stekla": 2750, "ldsp": 2850},
+      { "width": 1800, "depth": 600, "profileColor": "ele-cher-glyan",  "profil": 3250, "stekla": 2750, "ldsp": 2850},
+      { "width": 1800, "depth": 600, "profileColor": "l-serebro",       "profil": 5930, "stekla": 2750, "ldsp": 2850},
+      { "width": 1800, "depth": 600, "profileColor": "l-zoloto",        "profil": 5930, "stekla": 2750, "ldsp": 2850},
+      { "width": 1800, "depth": 600, "profileColor": "l-graphit",       "profil": 5930, "stekla": 2750, "ldsp": 2850},
+      { "width": 1800, "depth": 600, "profileColor": "p-serebro",       "profil": 4050, "stekla": 2750, "ldsp": 2850},
+      { "width": 1800, "depth": 600, "profileColor": "p-ferrara-tem",   "profil": 5930, "stekla": 2750, "ldsp": 2850},
+      { "width": 1800, "depth": 600, "profileColor": "p-ferrara-svet",  "profil": 5930, "stekla": 2750, "ldsp": 2850}
+    ]
+  },
+  "additions": [
+    { "name": "Добавить выдвижной ящик", "cost": 1200 }
+  ],
+  "category": [
+    "С зеркалами"
+  ]
+}, {
+  "id": 12,
+  "title": "Квадро зеркало",
+  "description": "<p>Вместительный шкаф-купе оснащен полками и штангой под одежду.</p><p><strong>Каркас:</strong> Выполнен из экологичного ЛДСП Lamarty (Сыктывкарский фанерный завод). Лицевая кромка ABS 2 мм термоустойчивая, внутренняя кромка наполнения шкафа ABS 0,45 мм в цвет каркаса. Задняя стенка ДВП белого цвета.</p><p><strong>Двери-купе:</strong> Наполнение двери-купе зеркало серебро, деленное на части (зеркало проклеено бронировочной пленкой безопасности).</p><p><strong>Система дверей-купе:</strong> Алюминиевый профиль производства Doksal, с усиленными силиконовыми роликами, обеспечивающие мягкое и бесшумное скольжение дверей по направляющим.</p>",
+  "isActive": true,
+  "previewImage": "/static/products/12-quadro-zerkalo.png",
+  "svgImage": "/static/",
+  "cost": {
+    "profil": 4770,
+    "stekla": 4890,
+    "ldsp": 5100,
+    "additions": []
+  },
+  "additions": [
+    { "name": "Добавить выдвижной ящик", "cost": 1200 }
+  ],
+  "category": [
+    "С зеркалами"
+  ]
+}, {
+  "id": 13,
+  "title": "Квадро белый",
+  "description": "<p>Вместительный шкаф-купе оснащен полками и штангой под одежду.</p><p><strong>Каркас:</strong> Выполнен из экологичного ЛДСП Lamarty (Сыктывкарский фанерный завод). Лицевая кромка ABS 2 мм термоустойчивая, внутренняя кромка наполнения шкафа ABS 0,45 мм в цвет каркаса. Задняя стенка ДВП белого цвета.</p><p><strong>Двери-купе:</strong> Наполнение двери-купе стекло, с пленочным покрытием белого цвета 010, поделенное на части (стекло проклеено бронировочной пленкой безопасности).</p><p>*Стекло имеет голубоватый оттенок.</p><p><strong>Система дверей-купе:</strong> Алюминиевый профиль производства Doksal, с усиленными силиконовыми роликами, обеспечивающие мягкое и бесшумное скольжение дверей по направляющим.</p>",
+  "isActive": true,
+  "previewImage": "/static/products/13-quadro-belyi.png",
+  "svgImage": "/static/",
+  "cost": {
+    "profil": 4770,
+    "stekla": 6340,
+    "ldsp": 5100,
+    "additions": []
+  },
+  "additions": [],
+  "category": [
+    "С зеркалами"
+  ]
+}, {
+  "id": 14,
+  "title": "Арт",
+  "description": "<p>Вместительный шкаф-купе оснащен полками и штангой под одежду.</p><p><strong>Каркас:</strong> Выполнен из экологичного ЛДСП Lamarty (Сыктывкарский фанерный завод). Лицевая кромка ABS 2 мм термоустойчивая, внутренняя кромка наполнения шкафа ABS 0,45 мм в цвет каркаса. Задняя стенка ДВП белого цвета</p><p><strong>Двери-купе:</strong> Наполнение двери-купе состоит из МДФ в суперматовой пленке ПВХ с фрезеровкой.</p><p><strong>Система дверей-купе:</strong> Алюминиевый профиль производства Doksal, с усиленными силиконовыми роликами,обеспечивающие мягкое и бесшумное скольжение дверей по направляющим.</p>",
+  "isActive": true,
+  "previewImage": "/static/products/14-art.png",
+  "svgImage": "/static/",
+  "cost": {
+    "profil": 4770,
+    "stekla": 12150,
+    "ldsp": 5100,
+    "additions": []
+  },
+  "additions": [],
+  "category": [
+    "С зеркалами"
+  ]
+}, {
+  "id": 15,
+  "title": "Спектр",
+  "description": "<p>Вместительный шкаф-купе оснащен полками и штангой под одежду.</p><p><strong>Каркас:</strong> Выполнен из экологичного ЛДСП Lamarty (Сыктывкарский фанерный завод). Лицевая кромка ABS 2 мм термоустойчивая, внутренняя кромка наполнения шкафа ABS 0,45 мм в цвет каркаса. Задняя стенка ДВП белого цвета.</p><p><strong>Двери-купе:</strong> Наполнение двери-купе зеркало серебро с пескоструйной обработкой. Фон зеркальный. (зеркало проклеено бронировочной пленкой безопасности).</p><p><strong>Система дверей-купе:</strong> Алюминиевый профиль производства Doksal, с усиленными силиконовыми роликами, обеспечивающие мягкое и бесшумное скольжение дверей по направляющим.</p>",
+  "isActive": true,
+  "previewImage": "/static/products/15-spectr.png",
+  "svgImage": "/static/",
+  "cost": {
+    "profil": 4770,
+    "stekla": 8980,
+    "ldsp": 5100,
+    "additions": []
+  },
+  "additions": [],
+  "category": [
+    "С зеркалами"
+  ]
+}, {
+  "id": 16,
+  "title": "Интро жемчуг",
+  "description": "<p>Вместительный шкаф-купе оснащен полками и штангой под одежду.</p><p><strong>Каркас:</strong> Выполнен из экологичного ЛДСП Lamarty (Сыктывкарский фанерный завод). Лицевая кромка ABS 2 мм термоустойчивая, внутренняя кромка наполнения шкафа ABS 0,45 мм в цвет каркаса. Задняя стенка ДВП белого цвета.</p><p><strong>Двери-купе:</strong> Наполнение двери-купе крашенное стекло жемчужного цвета (стекло проклеено бронировочной пленкой безопасности).</p><p><strong>Система дверей-купе:</strong> Алюминиевый профиль производства Doksal, с усиленными силиконовыми роликами, обеспечивающие мягкое и бесшумное скольжение дверей по направляющим.</p>",
+  "isActive": true,
+  "previewImage": "/static/products/16-intro-gemchug.png",
+  "svgImage": "/static/",
+  "cost": {
+    "profil": 4770,
+    "stekla": 9520,
+    "ldsp": 5100,
+    "additions": []
+  },
+  "additions": [],
+  "category": [
+    "С зеркалами"
+  ]
+}, {
+  "id": 17,
+  "title": "Квадро жемчуг",
+  "description": "<p>Вместительный шкаф-купе оснащен полками и штангой под одежду.</p><p><strong>Каркас:</strong> Выполнен из экологичного ЛДСП Lamarty (Сыктывкарский фанерный завод). Лицевая кромка ABS 2 мм термоустойчивая, внутренняя кромка наполнения шкафа ABS 0,45 мм в цвет каркаса. Задняя стенка ДВП белого цвета.</p><p><strong>Двери-купе:</strong> Наполнение двери-купе крашенное стекло жемчужного цвета, поделенное на части (стекло проклеенобронировочной пленкой безопасности).</p><p><strong>Система дверей-купе:</strong> Алюминиевый профиль производства Doksal, с усиленными силиконовыми роликами, обеспечивающие мягкое и бесшумное скольжение дверей по направляющим.</p>",
+  "isActive": true,
+  "previewImage": "/static/products/17-quadro-gemchug.png",
+  "svgImage": "/static/",
+  "cost": {
+    "profil": 4770,
+    "stekla": 10720,
+    "ldsp": 5100,
+    "additions": []
+  },
+  "additions": [],
+  "category": [
+    "С зеркалами"
+  ]
+}, {
+  "id": 18,
+  "title": "Ранго жемчуг",
+  "description": "<p>Вместительный шкаф-купе оснащен полками и штангой под одежду.</p><p><strong>Каркас:</strong> Выполнен из экологичного ЛДСП Lamarty (Сыктывкарский фанерный завод). Лицевая кромка ABS 2 мм термоустойчивая, внутренняя кромка наполнения шкафа ABS 0,45 мм в цвет каркаса. Задняя стенка ДВП белого цвета.</p><p><strong>Двери-купе:</strong> Наполнение двери-купе крашенное стекло жемчужного цвета, поделенное на части (стекло проклеенобронировочной пленкой безопасности).</p><p><strong>Система дверей-купе:</strong> Алюминиевый профиль производства Doksal, с усиленными силиконовыми роликами, обеспечивающие мягкое и бесшумное скольжение дверей по направляющим.</p>",
+  "isActive": true,
+  "previewImage": "/static/products/18-rango-gemchug.png",
+  "svgImage": "/static/",
+  "cost": {
+    "profil": 4770,
+    "stekla": 11320,
+    "ldsp": 5100,
+    "additions": []
+  },
+  "additions": [],
+  "category": [
+    "С зеркалами"
+  ]
+}, {
+  "id": 19,
+  "title": "Интро чисто белый",
+  "description": "<p>Вместительный шкаф-купе оснащен полками и штангой под одежду.</p><p><strong>Размеры:</strong> 1400*600*2400мм (ш*г*в)</p><p><strong>Каркас:</strong> Выполнен из экологичного ЛДСП Lamarty (Сыктывкарский фанерный завод). Лицевая кромка ABS 2 мм термоустойчивая, внутренняя кромка наполнения шкафа ABS 0,45 мм в цвет каркаса. Задняя стенка ДВП белого цвета</p><p><strong>Цвет каркаса:</strong> Выбеленное дерево, Каньон ледяной, Ясень шимо светлый, Венге темный, Белый рустикальный.</p><p><strong>Двери-купе:</strong> Наполнение двери-купе крашенное стекло чисто белого цвета (стекло проклеено бронировочной пленкой безопасности).</p><p><strong>Система дверей-купе:</strong> Алюминиевый профиль производства Doksal, с усиленными силиконовыми роликами, обеспечивающие мягкое и бесшумное скольжение дверей по направляющим.</p>",
+  "isActive": true,
+  "previewImage": "/static/products/19-intro-chisto-belyi.png",
+  "svgImage": "/static/products/19-intro-chisto-belyi.png",
+  "cost": {
+    "profil": 4770,
+    "stekla": 5150,
+    "ldsp": 5100,
+    "additions": []
+  },
+  "additions": [],
+  "category": [
+    "С зеркалами"
+  ]
+}, {
+  "id": 20,
+  "title": "Квадро чисто белый",
+  "description": "<p>Вместительный шкаф-купе оснащен полками и штангой под одежду.</p><p><strong>Размеры:</strong> 1400*600*2400мм (ш*г*в)</p><p><strong>Каркас:</strong> Выполнен из экологичного ЛДСП Lamarty (Сыктывкарский фанерный завод). Лицевая кромка ABS 2 мм термоустойчивая, внутренняя кромка наполнения шкафа ABS 0,45 мм в цвет каркаса. Задняя стенка ДВП белого цвета</p><p><strong>Цвет каркаса:</strong> Выбеленное дерево, Каньон ледяной, Ясень шимо светлый, Венге темный, Белый рустикальный.</p><p><strong>Двери-купе:</strong> Наполнение двери-купе крашенное стекло чисто белого цвета (стекло проклеено бронировочной пленкой безопасности).</p><p><strong>Система дверей-купе:</strong> Алюминиевый профиль производства Doksal, с усиленными силиконовыми роликами, обеспечивающие мягкое и бесшумное скольжение дверей по направляющим.</p>",
+  "isActive": true,
+  "previewImage": "/static/products/20-quadro-chisto-belyi.png",
+  "svgImage": "/static/",
+  "cost": {
+    "profil": 4770,
+    "stekla": 9520,
+    "ldsp": 5100,
+    "additions": []
+  },
+  "additions": [],
+  "category": [
+    "С зеркалами"
+  ]
+}, {
+  "id": 21,
+  "title": "Ранго чисто белый",
+  "description": "<p>Вместительный шкаф-купе оснащен полками и штангой под одежду.</p><p><strong>Размеры:</strong> 1400*600*2400мм (ш*г*в)</p><p><strong>Каркас:</strong> Выполнен из экологичного ЛДСП Lamarty (Сыктывкарский фанерный завод). Лицевая кромка ABS 2 мм термоустойчивая, внутренняя кромка наполнения шкафа ABS 0,45 мм в цвет каркаса. Задняя стенка ДВП белого цвета</p><p><strong>Цвет каркаса:</strong> Выбеленное дерево, Каньон ледяной, Ясень шимо светлый, Венге темный, Белый рустикальный.</p><p><strong>Двери-купе:</strong> Наполнение двери-купе крашенное стекло чисто белого цвета (стекло проклеено бронировочной пленкой безопасности).</p><p><strong>Система дверей-купе:</strong> Алюминиевый профиль производства Doksal, с усиленными силиконовыми роликами, обеспечивающие мягкое и бесшумное скольжение дверей по направляющим.</p>",
+  "isActive": true,
+  "previewImage": "/static/products/21-rango-chisto-belyi.png",
+  "svgImage": "/static/",
+  "cost": {
+    "profil": 4770,
+    "stekla": 10120,
+    "ldsp": 5100,
+    "additions": []
+  },
+  "additions": [],
+  "category": [
+    "С зеркалами"
+  ]
+}]

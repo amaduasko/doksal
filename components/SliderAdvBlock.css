@@ -1,0 +1,24 @@
+.main__adv {
+  overflow-x: auto;
+  overflow-y: hidden;
+  width: 100%;
+  display: block;
+}
+.main__adv__flex {
+  display: flex;
+  min-width: 69rem;
+  justify-content: space-around;
+}
+
+@media (max-width: 768px) {
+  .main__adv__flex {
+    min-width: 56rem;
+    justify-content: unset ;
+  }
+}
+@media (max-width: 574px) {
+  .container__main__adv {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}

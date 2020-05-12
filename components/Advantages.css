@@ -1,0 +1,24 @@
+.adv {
+  height: 233px;
+  width: 182px;
+}
+.adv__bg {
+  background: #ffffff;
+  border-radius: 60px;
+  height: 120px;
+  width: 120px;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0 auto;
+}
+.adv__text {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  padding-top: 1rem;
+  text-align: center;
+
+  color: #444444;
+}

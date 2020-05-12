@@ -1,0 +1,22 @@
+.imageviewer {
+  width: 100%;
+  min-height: 500px;
+  max-width: 500px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+}
+
+.imageviewer__container {
+  padding: 15px;
+  width: 100%;
+  min-height: 500px;
+  max-width: 500px;
+}
+
+@media (max-width: 640px) {
+  .imageviewer {
+    margin-top: 3rem;
+    min-height: 40vh;
+  }
+}

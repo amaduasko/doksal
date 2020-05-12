@@ -1,0 +1,20 @@
+.button {
+  border-radius: 30px;
+  color: #fff;
+  font-weight: bold;
+  font-size: 14px;
+  padding: 17px 25px;
+  border: none;
+  outline: none;
+}
+.button_orange {
+  background: linear-gradient(180deg, #ff8839 0%, #ff6600 100%);
+}
+.button_blue {
+  background: linear-gradient(180deg, #49abcd 0%, #2c87a6 100%);
+}
+
+.button i,
+.button img {
+  margin-left: 10px;
+}

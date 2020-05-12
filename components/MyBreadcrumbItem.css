@@ -1,0 +1,18 @@
+.mybreadcrumbitem {
+  color: #808080;
+  padding-right: 1rem;
+  text-decoration: none;
+}
+.mybreadcrumbitem:hover {
+  color: #808080;
+  opacity: 0.8;
+}
+
+.mybreadcrumbitem::after {
+  content: url(/static/img/breads.png);
+  padding-left: 1rem;
+}
+
+.mybreadcrumbitem__span {
+  color: #444444;
+}

@@ -1,0 +1,13 @@
+.WrapPillCenterPill{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    padding: 1rem 1rem 3rem 1rem;
+}
+
+@media (max-width: 425px) {
+.WrapPillCenterPill {
+    width: (50%-2rem);
+    }
+}
